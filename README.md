@@ -36,3 +36,24 @@ Belajar kelas "Belajar Dasar Git dengan GitHub" (Progress 24%)
   * Persiapan Belajar
   * Git dan Github (Pengantar git dan github, Latihan membuat akun, eksplorasi proyek, dan lembar kerja github)
   * Dasar Git (Pengantar dasar git, perintah dasar git, mengenal git workflow, repository)
+
+**11 Februari 2022** <br>
+Belajar kelas "Belajar Dasar Git dengan GitHub" (Progress 72%)
+  * Persiapan Belajar
+  * Git dan Github (Pengantar git dan github, Latihan membuat akun, eksplorasi proyek, dan lembar kerja github)
+  * Dasar Git (Pengantar dasar git, perintah dasar git, mengenal git workflow, repository, dan release file)
+  * Studi Kasus Pengalaman Belajar (Membuat Repository, menambahkan pengalaman belajar, mengubah, melihat history, dan merilis dokumentasi pengalaman belajar)
+  * Git Branches (Pengantar dan praktikum git branch, membuat branch, perpindahan branch, merge, pull request, dan merge conflict)
+  * Kolaborasi dengan Tim (Pengantar serta praktikum kolaborasi dengan tim, fork, kolaborasi publik repository, revert, dan squashing changes)
+
+**14 Februari 2022** <br>
+Belajar kelas "Belajar Dasar Git dengan GitHub" (Progress 100%)
+  * Persiapan Belajar
+  * Git dan Github (Pengantar git dan github, Latihan membuat akun, eksplorasi proyek, dan lembar kerja github)
+  * Dasar Git (Pengantar dasar git, perintah dasar git, mengenal git workflow, repository, dan release file)
+  * Studi Kasus Pengalaman Belajar (Membuat Repository, menambahkan pengalaman belajar, mengubah, melihat history, dan merilis dokumentasi pengalaman belajar)
+  * Git Branches (Pengantar dan praktikum git branch, membuat branch, perpindahan branch, merge, pull request, dan merge conflict)
+  * Kolaborasi dengan Tim (Pengantar serta praktikum kolaborasi dengan tim, fork, kolaborasi publik repository, revert, squashing changes, dan code reviews)
+  * Studi kasus kolaborasi dengan Tim (Membuat repository baru, menambahkan aturan volunteer, melakukan forking, menambahkan data diri pada berkas README.md, melakukan pull request, menangani pull request, dan mengikuti tantangan pull request pada repository dicoding)
+  * GitHub sebagai Portfolio (Pengantar GitHub, portfolio GitHub untuk para developer, membuat portfolio menggunakan GitHub
+  * Penutup yang diakhiri dengan menyelesaikan Ujian Akhir
