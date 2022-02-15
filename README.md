@@ -57,3 +57,11 @@ Belajar kelas "Belajar Dasar Git dengan GitHub" (Progress 100%)
   * Studi kasus kolaborasi dengan Tim (Membuat repository baru, menambahkan aturan volunteer, melakukan forking, menambahkan data diri pada berkas README.md, melakukan pull request, menangani pull request, dan mengikuti tantangan pull request pada repository dicoding)
   * GitHub sebagai Portfolio (Pengantar GitHub, portfolio GitHub untuk para developer, membuat portfolio menggunakan GitHub
   * Penutup yang diakhiri dengan menyelesaikan Ujian Akhir
+
+**15 Februari 2022** <br>
+Belajar kelas "Belajar Dasar Pemrograman Web" (Progress 34%)
+  * Persiapan Belajar
+  * Pendahuluan (Pengantar Website, Server-Client, dan Requirement Tools)
+  * Pengenalan HTML (Struktur dasar HTML, membuat berkas HTML, dan identifikasi elemen pada halaman website)
+  * Pendalaman HTML (Atribut, paragraf, heading, list, gambar, teks terformat, anchor, emphasized text, important text, short quotation, cititation, defining terms, subscript, superscript, highlighted text, line break, semantic HTML, header, footer, main, nav, articles, aside, section, generic element, div, aside, article, table, spanning cell, elemen dan atribut tabel, dan special character) 
+  * Pengenalan CSS (Pengenalan CSS, keuntungan dan cara kerja CSS, memberikan markup pada dokumen, menuliskan aturan styling, menerapkan styling dasar, membuat berkas CSS, menulis rules pada berkas CSS, menghubungkan berkas CSS dengan HTML, dan CSS conception)
